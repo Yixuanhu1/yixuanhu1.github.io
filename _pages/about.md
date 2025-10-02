@@ -15,6 +15,7 @@ I’m Yixuan Hu, an M.Sc. graduate in Robotics, Cognition and Intelligence from 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
 Publications
+======
 - SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation (NeurIPS 2025)  [[Project Page]](https://dekai21.github.io/SPIRAL/) 
 [[Paper]](https://arxiv.org/abs/2505.22643)
 - ControlEvents: Controllable Synthesis of Event Camera Datawith Foundational Prior from Image Diffusion Models (Preprint)  [[Project Page]](https://yuxuan-xue.com/controlevents)  [[Paper]](https://www.arxiv.org/abs/2509.22864)
