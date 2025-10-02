@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 #title                    : "Your Name / Site Title"
-title                    : "Yixuan Hu / Personal Page"
+title                    : "Yixuan Hu&nbsp;/&nbsp;Personal Page"
 title_separator          : "-"
 #name                     : &name "Your Name"
 name                     : &name "Yixuan Hu"
